@@ -2,7 +2,7 @@
 ##### Full Stack, GIS and AI Developer @ Albo Climate | Autodidact | Polyglot Full-stack Developer | Lifelong Learner | Independent Researcher
 
 - 😄 Pronouns: he/him
-- 🔭 I currently work as a full stack + GIS + AI developer in Albo Climate - a startup using Satelite imagery analysis using AI to monitor and measure the impact of climate project. I develop in Python (Rasterio, Google Earth Engine, Pytorch Lightning) and Javascript (React, Google Earth Engine). 
+- 🔭 I work as a full stack + GIS + AI developer in Albo Climate - a startup using Satelite imagery analysis using AI to monitor and measure the impact of climate project. I develop in Python (Rasterio, Google Earth Engine, Pytorch Lightning) and Javascript (React, Google Earth Engine). 
 - :information_source: Feel free to check out [my personal profile](https://www.github.com/VehpuS) and [my personal gists](https://gist.github.com/VehpuS).
 
 <!--
